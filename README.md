@@ -1,10 +1,10 @@
-# speed-typeracing
+# Speed-Typeracing
 
 This is my project speed-typeracing. This allows you to simulate typing behaviour in Typeracer to achieve furious speed.
 
 # How to Use -
 
-1. Go to ![typeracer.com](https://play.typeracer.com/)
+1. Go to [typeracer.com](https://play.typeracer.com/)
 
 2. When the timer starts. Press ctrl to capture screen.
 
@@ -12,7 +12,7 @@ This is my project speed-typeracing. This allows you to simulate typing behaviou
 
 4. Press ctrl to start typing.
 
-![](https://github.com/malraharsh/Gesture-Controlled-Driving/blob/master/Hand%20Gesture.png)
+![](https://raw.githubusercontent.com/malraharsh/speed-typeracing/master/Screenshot.png)
 
 ## Usage
 
