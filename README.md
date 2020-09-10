@@ -6,17 +6,16 @@ This is my project speed-typeracing. This allows you to simulate typing behaviou
 
 # How to Use -
 
-1. Go to [typeracer.com](https://play.typeracer.com/)
+1. Go to [Typeracer](https://play.typeracer.com/).
 
 2. When the timer starts. Press ctrl to capture screen.
 
-3. Select the region of text exactly.
+3. Select the region of text exactly. Then press enter to confirm.
 
-4. Press ctrl to start typing.
+4. Press ctrl to start the typing.
 
 ![](https://raw.githubusercontent.com/malraharsh/speed-typeracing/master/Screenshot.png)
 
----
 
 # Working - 
 
