@@ -2,6 +2,8 @@
 
 This is my project speed-typeracing. This allows you to simulate typing behaviour in Typeracer to achieve furious speed.
 
+Full Video [here](https://www.linkedin.com/posts/activity-6709656362483290113-J5bi).
+
 ---
 
 # How to Use -
